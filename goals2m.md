@@ -13,3 +13,12 @@ On hardware side, we are currently in the process of running a small
 production series of RasPoE, a Raspberry Pi PoE splitter board. Selling
 our previous boards on Ebay is starting during August 2015 with RasPoE
 joining ranks whenever we have the produce run available.
+
+On non-technical side, we need business development as our platform
+is approaching beta-level and we are searching for designs based on
+our work. We have started an effort Daily Greens for that purpose and
+Jukka Korpihete is wanting to use our platform for lighting products.
+As our business model is somewhat complex, the actual money flow is
+mostly related to these vertical business opportunities that then
+either do work on the platform itself or sponsor the platform development
+to suit their purposes better. This will benefit all.
