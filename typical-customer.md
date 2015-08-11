@@ -5,7 +5,8 @@ Our customers are:
 - service operators
 - hackers
 
-We found out by wanting ourselves a secure building automation. Our research
-showed that such a thing does not exist that satisfies basic internet security
-best practices (all traffic is signed and encrypted using PKI), so we set out
-to first make the platform and then start building real products that use it.
+We found out our customer base by wanting ourselves a secure building
+automation. Our research showed that such a thing does not exist that
+satisfies basic internet security best practices (all traffic is signed
+and encrypted using PKI), so we set out to first make the platform and
+then start building real products that use it.
