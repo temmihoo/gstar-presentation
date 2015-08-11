@@ -8,3 +8,8 @@ the POINT H2020 research project. It will also act as a kind of basis
 for service design work to identify future opportunities for running
 building services and possibly new kinds of business models such as
 Light as a Service, Heating as a service and so on.
+
+On hardware side, we are currently in the process of running a small
+production series of RasPoE, a Raspberry Pi PoE splitter board. Selling
+our previous boards on Ebay is starting during August 2015 with RasPoE
+joining ranks whenever we have the produce run available.
