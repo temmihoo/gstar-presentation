@@ -3,7 +3,7 @@ Our customers are:
 - system integrators
 - device manufacturers
 - service operators
-- open source projects
+- hackers
 
 We found out by wanting ourselves a secure building automation. Our research
 showed that such a thing does not exist that satisfies basic internet security
